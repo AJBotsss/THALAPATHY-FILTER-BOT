@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>⍟───[ ᴍʏ ᴅᴇᴛᴀɪʟꜱ ]───⍟
  ‣ ᴍʏ ɴᴀᴍᴇ : ᴍɪɴᴀᴛᴏ ɴᴀᴍɪᴋᴀᴢᴇ
  ‣ ᴍʏ ʙᴇꜱᴛ ꜰʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/Culprit_003'>ᴄᴜʟᴘʀɪᴛ</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/SSA_TG'>SSA_TG</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -27,9 +27,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 ᴀɴʏ ᴀᴍᴏᴜᴛ ᴍᴀᴋᴇꜱ ᴀ ʜᴜɢᴇ ᴅɪꜰꜰᴇʀᴇɴᴄᴇ🤜
 
-‣ ‣ᴜᴘɪ ɪᴅ : kalaiyarasanknp007-1@okicici
+‣ ‣ᴜᴘɪ ɪᴅ : kallagunta.ajay@ybl
 
-‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href='http://t.me/Culprit_003'>ᴄᴜʟᴘʀɪᴛ</a> 
+‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href='http://t.me/SSA_TG'>ᴄᴜʟᴘʀɪᴛ</a> 
 
          » Qʀ ᴄᴏᴅᴇ ᴀʟꜱᴏ ᴀᴠᴀɪʟᴀʙᴇ ɪɴ ᴀʙᴏᴠᴇ ɪᴍᴀɢᴇ «
 
